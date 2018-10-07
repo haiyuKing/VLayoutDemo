@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <!-- 标题 -->
+    <TextView
+        android:id="@+id/valyout_sticky_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="焦点新闻"
+        android:textSize="18sp"
+        android:textColor="#ff0000"
+        android:padding="10dp"
+        />
+
+</LinearLayout>

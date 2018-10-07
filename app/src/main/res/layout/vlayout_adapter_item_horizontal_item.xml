@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_hori"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:padding="10dp">
+
+    <!-- 图片 -->
+    <ImageView
+        android:id="@+id/img_thumb"
+        android:layout_centerInParent="true"
+        android:layout_width="144dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/img_loading"
+        android:layout_height="84dp" />
+
+    <!-- 标题 -->
+    <!--android:layout_width="144dp" 不能是match_parent，否则的话，只能显示一行-->
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:paddingTop="10dp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        />
+
+</LinearLayout>

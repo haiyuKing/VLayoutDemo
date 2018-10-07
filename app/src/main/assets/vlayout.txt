@@ -1,0 +1,175 @@
+﻿{
+    "data": [
+        {
+            "modelname": "焦点新闻",
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://b.bdstatic.com/boxlib/20180120/2018012017100383423448679.jpg",
+                    "url": "http://pic.chinadaily.com.cn/2018-01/20/content_35544757.htm",
+                    "title": "西昌铁路警方用表情包宣传爱路小知识",
+                    "id": "whyidzhi",
+                    "order": "1"
+                },
+                {
+                    "image": "https://b.bdstatic.com/boxlib/20180120/2018012017100311270281486.jpg",
+                    "url": "http://pic.chinadaily.com.cn/2018-01/20/content_35544758.htm",
+                    "title": "成都熊猫基地太阳产房全新升级",
+                    "id": "whyidzhi",
+                    "order": "2"
+                },
+                {
+                    "image": "https://b.bdstatic.com/boxlib/20180120/2018012017100392134086973.jpg",
+                    "url": "http://pic.chinadaily.com.cn/2018-01/20/content_35544759.htm",
+                    "title": "长沙“90后”交警用手绘记录交警故事",
+                    "id": "whyidzhi",
+                    "order": "3"
+                }
+            ]
+        },
+        {
+            "modelname": "国际人物",
+            "type": "hori",
+            "data": [
+                {
+                    "image": "http://t12.baidu.com/it/u=264843290,870648681&fm=173&s=29C043870E531CDC082897A003006015&w=218&h=146&img.JPEG",
+                    "url": "http://news.163.com/18/0120/15/D8JS570V00018AOQ_all_mobile.html",
+                    "title": "法总统马克龙会见默克尔 强调欧洲改革需要德国（全文..",
+                    "id": "whyidzhi",
+                    "order": "1"
+                },
+                {
+                    "image": "http://t12.baidu.com/it/u=4226840171,4032584677&fm=173&app=25&f=JPG?w=640&h=432&s=C1609A447424431FC00B377203005078",
+                    "url": "http://baijiahao.baidu.com/s?id=1613536578822498780",
+                    "title": "陕西人的“互联网标签”：网红张朝阳、文青杨勃、野心家左晖",
+                    "id": "whyidzhi",
+                    "order": "2"
+                },
+                {
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3198279523,4185344220&fm=173&app=25&f=JPEG?w=640&h=897&s=FD88DA1B5044F6ED46B441440300B0E1",
+                    "url": "http://baijiahao.baidu.com/s?id=1613539953232269959",
+                    "title": "被摩拜ofo“害惨”的自行车小镇：每个厂都在撑，看谁能熬到最后",
+                    "id": "whyidzhi",
+                    "order": "3"
+                },
+                {
+                    "image": "https://t1.huanqiu.cn/6167694d12965dc5350e425042358faa.jpg",
+                    "url": "https://3w.huanqiu.com/a/58ef16/7GNz4ZMBjRC?agt=8",
+                    "title": "山西运城盐湖秋天景致美",
+                    "id": "whyidzhi",
+                    "order": "4"
+                },
+                {
+                    "image": "https://img0.utuku.china.com/550x0/toutiao/20181006/a9f65a54-c12c-4e9f-be98-222b257aedf0.jpg",
+                    "url": "https://toutiao.china.com/shsy/sdsh/13000927/20181007/34090393.html?newsbaidu",
+                    "title": "国庆假期不够用？这3类人还有至少5天假可以休",
+                    "id": "whyidzhi",
+                    "order": "5"
+                }
+            ]
+        },
+        {
+            "modelname": "图片新闻",
+            "type": "grid",
+            "data": [
+                {
+                    "image": "https://t10.baidu.com/it/u=44207055,3448633405&fm=173&s=CFF20CC150452CEC9F9C491103005092&w=218&h=146&img.JPEG",
+                    "url": "http://war.163.com/18/0120/11/D8JEFM5D000181KT_mobile.html",
+                    "title": "外媒称朝鲜先遣队取消访韩",
+                    "id": "whyidzhi",
+                    "order": "1"
+                },
+                {
+                    "image": "https://t10.baidu.com/it/u=1625316837,2876937793&fm=173&s=F507703317115D6644753AE80300E036&w=218&h=146&img.JPEG",
+                    "url": "http://news.china.com/internationalgd/10000166/20180120/31985304.html",
+                    "title": "狂风横扫欧洲多国，致10人",
+                    "id": "whyidzhi",
+                    "order": "2"
+                },
+                {
+                    "image": "https://t10.baidu.com/it/u=2946973968,4057971581&fm=173&s=2D216D93C2F00B9219A825E703009060&w=218&h=146&img.JPEG",
+                    "url": "http://news.sina.com.cn/w/2018-01-20/doc-ifyqtycx0654102.shtml",
+                    "title": "津巴布韦反对党要人在美坠",
+                    "id": "whyidzhi",
+                    "order": "3"
+                },
+                {
+                    "image": "https://t12.baidu.com/it/u=3788697896,2880168169&fm=173&s=D31A38C4D664D55FC29281010300309B&w=218&h=146&img.JPEG",
+                    "url": "http://finance.ifeng.com/a/20180120/15937975_0.shtml",
+                    "title": "美国政府关门 比特币闻讯",
+                    "id": "whyidzhi",
+                    "order": "4"
+                },
+                {
+                    "image": "https://t10.baidu.com/it/u=1499851317,895362806&fm=173&s=BD04DF104871339C53A88C870100E0E3&w=218&h=146&img.JPEG",
+                    "url": "http://news.sina.com.cn/o/2018-01-20/doc-ifyquixe5136803.shtml",
+                    "title": "刚刚，美国政府正式宣告",
+                    "id": "whyidzhi",
+                    "order": "5"
+                },
+                {
+                    "image": "https://t12.baidu.com/it/u=4229963978,641890755&fm=173&s=74B218D646A08B491AAF3E9903001088&w=218&h=146&img.JPEG",
+                    "url": "http://www.chinanews.com/gj/2018/01-20/8428898.shtml",
+                    "title": "超三成受访者称中国是“新",
+                    "id": "whyidzhi",
+                    "order": "6"
+                },
+                {
+                    "image": "https://t1.huanqiu.cn/5f547d9ed66ca492844c5e74ce0fc60e.jpg",
+                    "url": "https://3w.huanqiu.com/a/3458fa/7GNzbpwcDni?agt=8",
+                    "title": "多地迎来返程客流高峰",
+                    "id": "whyidzhi",
+                    "order": "7"
+                }
+            ]
+        },
+        {
+            "modelname": "视频新闻",
+            "type": "list",
+            "data": [
+                {
+                    "image": "http://pic.rmb.bdstatic.com/1f01839d477aa7a3ffa36f07542f8d5b.jpg@h_660,w_370",
+                    "url": "http://v.qq.com/x/page/h0527p90e2b.html",
+                    "title": "杭州餐馆爆炸，路过公交车20余人受伤",
+                    "id": "whyidzhi",
+                    "order": "1"
+                },
+                {
+                    "image": "http://pic.rmb.bdstatic.com/1f541422405ab18797795c0adc3318eb.jpg@h_660,w_370",
+                    "url": "http://www.iqiyi.com/v_19rr7omigs.html",
+                    "title": "中央措辞严厉批祁连山生态问题 8责任人被问责",
+                    "id": "whyidzhi",
+                    "order": "2"
+                },
+                {
+                    "image": "http://pic.rmb.bdstatic.com/d46f662c1900de051da6de2eef2c485f.jpg@h_660,w_370",
+                    "url": "http://v.qq.com/x/page/a0024q7bkg0.html",
+                    "title": "吉林永吉 吉林市多地遭暴雨袭击 县城灾后清理正在进行",
+                    "id": "whyidzhi",
+                    "order": "3"
+                },
+                {
+                    "image": "http://pic.rmb.bdstatic.com/b9cdfca4adeb36ac1a0730f70b9d63f9.jpg@h_660,w_370",
+                    "url": "http://www.iqiyi.com/v_19rr7oosfs.html",
+                    "title": "40 高温下一出租车行驶中自燃",
+                    "id": "whyidzhi",
+                    "order": "4"
+                },
+                {
+                    "image": "http://pic.rmb.bdstatic.com/660e5152b144e48bbdffdad5d9fdc088.jpg@h_660,w_370",
+                    "url": "http://v.qq.com/x/page/v0527bhjwh3.html",
+                    "title": "徐光裕：印度航母只是二流航母",
+                    "id": "whyidzhi",
+                    "order": "5"
+                },
+                {
+                    "image": "http://n.sinaimg.cn/translate/425/w700h525/20181007/cnmx-hkvrhps8352156.jpg",
+                    "url": "http://tech.sina.com.cn/roll/2018-10-07/doc-ihkvrhps8352306.shtml",
+                    "title": "17辆编组超长版“复兴号”亮相北京 明年投入运营",
+                    "id": "whyidzhi",
+                    "order": "6"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_banner"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    >
+
+    <!-- 轮播图区域 -->
+    <com.youth.banner.Banner
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/home_banner"
+        android:layout_width="match_parent"
+        android:layout_height="211dp"
+        app:indicator_drawable_selected="@drawable/banner_selected_radius"
+        app:indicator_drawable_unselected="@drawable/banner_unselected_radius"
+        app:indicator_height="8dp"
+        app:indicator_width="8dp"
+        app:indicator_margin="4dp"
+        app:is_auto_play="false"
+        app:image_scale_type="fit_xy"
+        />
+
+    <!-- 轮播图对应的标题 -->
+    <TextView
+        android:id="@+id/tv_banner_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:lines="1"
+        android:ellipsize="end"
+        />
+
+</LinearLayout>
